@@ -9,9 +9,9 @@
 + [Description](#description)
 + [Installation Requirement](#Installation)
 + [Technology Used](#technology-used)
-+ [Reference](#reference)
-+ [Licence](#licence)
-+ [Authors Info](#author-Info)
+
+
+
 ## Description
 <p>This is  about a street food.It contains all the knowledge that I have learned about HTML & CSS </p>
 ## Installation
